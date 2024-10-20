@@ -20,19 +20,16 @@ To install **Anon**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+sudo git clone https://github.com/atharvabharambe/anon-ecommerce-website.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/anon-ecommerce-website.git
+git clone https://github.com/atharvabharambe/anon-ecommerce-website.git
 ```
 
 ## Contact
 
-If you want to contact me you can reach me at [LinkedIn]([https://www.twitter.com/codewithsadee](https://www.linkedin.com/in/atharva-bharambe-715833281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)).
+If you want to contact me you can reach me at ![LinkedIn](https://www.linkedin.com/in/atharva-bharambe-715833281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-## License
-
-This project is **free to use** and does not contains any license.
