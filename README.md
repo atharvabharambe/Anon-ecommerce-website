@@ -29,7 +29,8 @@ Windows:
 git clone https://github.com/atharvabharambe/anon-ecommerce-website.git
 ```
 
-## Contact
 
-If you want to contact me you can reach me at ![LinkedIn](https://www.linkedin.com/in/atharva-bharambe-715833281?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
-
+## 🔗 Contact Me
+If you want to contact me you can reach me at 
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://atharvabharambe.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/atharva-bharambe-715833281)
