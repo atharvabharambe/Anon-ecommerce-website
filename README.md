@@ -2,6 +2,9 @@
 
 Anon is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
+##Display
+https://anon-shoponline.netlify.app/#
+
 ## Demo
 
 ![Anon Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
@@ -28,6 +31,8 @@ Windows:
 ```bash
 git clone https://github.com/atharvabharambe/anon-ecommerce-website.git
 ```
+
+- Just run the `index.html` file on any browser
 
 
 ## 🔗 Contact Me
